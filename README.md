@@ -31,7 +31,7 @@ This account is mostly for learning, experiments, and sharing small projects.
 
 ## 📫 Reach Out
 - GitHub Issues / Discussions  
-- Reach me on Discord dzk5 
+- Reach me on Discord dontlikedriel
 
 ---
 
