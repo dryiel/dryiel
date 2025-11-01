@@ -1,4 +1,4 @@
-# 👋 Ad Maiore Dei Gloriam!
+# 👋 Ad Maiorem Dei Gloriam!
   
 I'm a student exploring **IT, web development, animation, photography, and aviation** ✈️.  
 This account is mostly for learning, experiments, and sharing small projects.
